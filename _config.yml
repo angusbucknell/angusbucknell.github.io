@@ -17,26 +17,25 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'angusbucknell.github.io'
 
-author: your_full_name                  # change to your full name
+author: Angus                 # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: angusbucknell            # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Angus                  # it will shows as the copyright owner in Footer
+  email: ahbucknell@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/ahbuckell      # change to your twitter homepage
+    - https://github.com/angusbucknell      # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/angus-bucknell/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
